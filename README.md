@@ -1,1 +1,1 @@
-# blog-api-calling
+Jupyter notebook for [blogpost](https://sriramgkn.github.io/api-calling/) on API design. Dependencies are explained inside the notebook. These codes were developed for illustrative purposes, and might benefit from customization to suit specific needs.
